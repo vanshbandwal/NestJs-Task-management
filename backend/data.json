@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Finish React project",
+    "description": "Complete the frontend for the task manager app with React and Tailwind.",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2025-10-05",
+    "tags": ["work", "coding"]
+  },
+  {
+    "name": "Buy groceries",
+    "description": "Get milk, eggs, bread, and fresh vegetables from the supermarket.",
+    "status": "done",
+    "priority": "medium",
+    "dueDate": "2025-09-30",
+    "tags": ["personal", "shopping"]
+  },
+  {
+    "name": "Gym workout",
+    "description": "Leg day workout: squats, lunges, and leg press.",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": "2025-10-01",
+    "tags": ["health", "fitness"]
+  },
+  {
+    "name": "Team meeting",
+    "description": "Discuss progress and blockers with the dev team.",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2025-09-29",
+    "tags": ["work", "meeting"]
+  },
+  {
+    "name": "Read a book",
+    "description": "Finish reading 'Atomic Habits' for self-improvement.",
+    "status": "done",
+    "priority": "low",
+    "dueDate": "2025-09-25",
+    "tags": ["personal", "learning"]
+  },
+  {
+    "name": "Pay electricity bill",
+    "description": "Pay the monthly electricity bill online before the due date.",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2025-10-02",
+    "tags": ["personal", "finance"]
+  },
+  {
+    "name": "Doctor appointment",
+    "description": "Routine health check-up with Dr. Sharma.",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2025-10-03",
+    "tags": ["health"]
+  },
+  {
+    "name": "Weekend trip",
+    "description": "Plan and book tickets for a weekend trip with friends.",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2025-10-10",
+    "tags": ["travel", "friends"]
+  }
+]
